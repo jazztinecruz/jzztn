@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/jazztine-cruz-594321204/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.fiverr.com/share/KYDW8W">
+  <a href="https://www.fiverr.com/share/WDyB2X">
     <img src="https://img.shields.io/badge/Fiverr-green?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
   </a>
   <a href="https://www.facebook.com/jzztn.crz/">
