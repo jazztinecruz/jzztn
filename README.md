@@ -25,7 +25,7 @@ I am a <strong>Frontend Developer</strong> from Philippines
 - 👩‍💼 I’m working as a Frontend Software Engineer building frontend website applications.
 - 🖌️ I am also a website designer who designs user interfaces professionally
 - 🏫 I have a Bachelor's degree major in Computer Science
-- 🏅 I am a Dean's Lister
+- 🏅 Consecutive Dean's Lister and College Honors
 - 👩‍💼 I also do freelancing as a Frontend Developer and/or Website Designer
 
 
